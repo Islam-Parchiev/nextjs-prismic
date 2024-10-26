@@ -6,17 +6,17 @@
   "status": true,
   "json": {
     "Main": {
-      "site_title": {
-        "type": "Text",
-        "config": {
-          "label": "SIte Title",
-          "placeholder": ""
-        }
-      },
       "meta_description": {
         "type": "Text",
         "config": {
           "label": "Meta Description",
+          "placeholder": ""
+        }
+      },
+      "site_title": {
+        "type": "Text",
+        "config": {
+          "label": "Site Title",
           "placeholder": ""
         }
       },
